@@ -19,7 +19,7 @@
             <div class="form-group row">
                 <div class="col-md-12">
                     <label>CNPJ</label>
-                    <input type="text" onblur="checkCnpj(this.value)" class="form-control" data-mask="00.000.000/0000-00" data-mask-reverse="true" maxlength="18">
+                    <input type="text" onblur="checkCnpj(this.value)" class="form-control" data-mask="00.000.000/0000-00">
                 </div>
             </div>
             <div class="form-group row">
